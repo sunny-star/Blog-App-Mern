@@ -1,6 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
+  "type": "module",   // <-- Added "type": "module" here
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
